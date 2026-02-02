@@ -14,7 +14,7 @@ I’m [**Miraya**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d
 - [Image Card Stack](https://github.com/mirayatech/image-card-stack) -  A draggable card stack component with smooth animations and TypeScript generics.
 - [Anime Scene Gallery](https://github.com/mirayatech/Anime-Scene-Gallery) - An interactive anime scene gallery with hover animations and dynamic transitions.
 - [Ninja Sketch](https://github.com/mirayatech/NinjaSketch) - Excalidraw clone built with React and TypeScript
-- [Halloween Cat & Ghost](https://github.com/mirayatech/halloween-cat-ghost) - An animated Halloween scene featuring a cat watching a playful ghost through a window built with pure css
+- [Halloween Cat & Ghost](https://github.com/mirayatech/halloween-cat-ghost) - An animated Halloween scene featuring a cat watching a playful ghost through a window
 - [DragTrack](https://github.com/mirayatech/drag-track) - A kanban board that allows you to drag and drop tasks between columns
 - [Hover Hamburger](https://github.com/mirayatech/animated-burger-button) - A Sandwich built with html and css.
 - [TypePrint](https://github.com/mirayatech/TypePrint) - A Markdown parser from scratch.
