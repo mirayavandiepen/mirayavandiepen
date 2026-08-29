@@ -10,8 +10,6 @@ If something feels off, I redesign it. If I have an idea, I build it.
 
 I mostly build with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
-Figma is where I design, Claude Code and Codex help me build, Apple Notes holds the messy ideas, and Procreate is where I draw when words aren’t enough.
-
 I’ve built over 100 public repos, and privately... probably more than over 200 at this point.
 
 I’ve got a bunch of pinned projects, but my favorite is the [Anime Scene Gallery](https://github.com/mirayatech/Anime-Scene-Gallery).
