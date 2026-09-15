@@ -15,5 +15,6 @@ I also share what I learn about design engineering, frontend, and building produ
 #### Fun facts
 
 - I don’t like coffee or tea
+- I have 2 cats, Simba and Milo
 - Demon Slayer is my favorite anime
 - Hobbies: drawing and building random things
