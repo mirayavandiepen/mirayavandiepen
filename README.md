@@ -8,10 +8,6 @@ Most projects are built with React, Next.js, TypeScript, Tailwind CSS, and Frame
 
 There are more than 100 public repos here, and privately.. probably well over 200 at this point.
 
-A few projects are pinned below, but the [Anime Scene Gallery](https://github.com/mirayatech/Anime-Scene-Gallery) is still my favorite.
-
-I also share what I learn about design engineering, frontend, and building products on [YouTube](https://www.youtube.com/@mirayavandiepen) and [Instagram](https://www.instagram.com/mirayavandiepen). 
-
 #### Fun facts
 
 - I don’t like coffee or tea
